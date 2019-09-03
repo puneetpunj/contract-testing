@@ -74,3 +74,21 @@ npm run consumer-test --> To generate pact file
 npm run publish-pact --> publish it to PACT Broker
 npm run provider-test --> Validate contracts against provider application
 ```
+
+## **Execution Snapshot**
+
+<p>
+    <img src="/images/consumer-tests-execution.png"/>
+</p>
+
+<p>
+    <img src="/images/publish-pacts.png"/>
+</p>
+
+<p>
+    <img src="/images/provider-test-execution.png"/>
+</p>
+
+<p>
+    <img src="/images/provider-tests-execution.png"/>
+</p>
