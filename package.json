@@ -1,0 +1,24 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "consumer-test": "mocha consumer.test.js",
+    "publish-pact": "node publish.js",
+    "provider-test": "mocha provider.test.js --exit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pact-foundation/pact": "^9.1.0",
+    "@pact-foundation/pact-node": "^9.0.2",
+    "ava": "^2.2.0",
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "express": "^4.17.1",
+    "superagent": "^5.1.0"
+  }
+}
