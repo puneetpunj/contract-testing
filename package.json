@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "consumer-test": "mocha consumer.test.js",
+    "consumer-test": "mocha test/consumer.test.js",
     "publish-pact": "node publish.js",
-    "provider-test": "mocha provider.test.js --exit"
+    "provider-test": "mocha test/provider.test.js --exit"
   },
   "keywords": [],
   "author": "",
