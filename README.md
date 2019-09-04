@@ -70,6 +70,7 @@ It contains mocha tests to generate pact file.
 Execute below commands:
 
 ```bash
+npm i --> To install all dependencies
 npm run consumer-test --> To generate pact file
 npm run publish-pact --> publish it to PACT Broker
 npm run provider-test --> Validate contracts against provider application
