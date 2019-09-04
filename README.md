@@ -92,3 +92,21 @@ npm run provider-test --> Validate contracts against provider application
 <p>
     <img src="/images/provider-tests-execution.png"/>
 </p>
+
+## **PACT Broker**
+
+<p>
+    <img src="/images/PACT Broker.png"/>
+</p>
+
+## **Network Diagram for this Pact**
+
+<p>
+    <img src="/images/provider-tests-execution.png"/>
+</p>
+
+## **Typical Network Diagram**
+
+<p>
+    <img src="/images/provider-tests-execution.png"/>
+</p>
