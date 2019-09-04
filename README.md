@@ -102,11 +102,11 @@ npm run provider-test --> Validate contracts against provider application
 ## **Network Diagram for this Pact**
 
 <p>
-    <img src="/images/provider-tests-execution.png"/>
+    <img src="/images/pact network diagram.png"/>
 </p>
 
 ## **Typical Network Diagram**
 
 <p>
-    <img src="/images/provider-tests-execution.png"/>
+    <img src="/images/typical pact network diagram.png"/>
 </p>
